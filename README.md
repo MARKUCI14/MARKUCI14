@@ -1,5 +1,5 @@
-<h2> Portik Márk</h2>
-
+<h1 align="center">Hi 👋, I'm Márk Portik</h1>
+<h3 align="center">A passionate programmer from Romania</h3>
 <h2> Tech Stack </h2>
 
 | category | stack |
