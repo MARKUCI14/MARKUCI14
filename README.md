@@ -1,9 +1,4 @@
-
-
-## 👋 About Me
-
-I’m a Computer Science student who enjoys building practical software, exploring backend development, and working on projects that solve real problems.  
-Always learning, always experimenting, always building.
+<h2> Portik Márk</h2>
 
 <h2> Tech Stack </h2>
 
