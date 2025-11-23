@@ -5,14 +5,6 @@
 I’m a Computer Science student who enjoys building practical software, exploring backend development, and working on projects that solve real problems.  
 Always learning, always experimenting, always building.
 
-### 🌐 Find Me Here
-<div>
-
-<a href="https://linkedin.com/in/mark-portik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-
-</div>
-
-
 <h2> Tech Stack </h2>
 
 | category | stack |
