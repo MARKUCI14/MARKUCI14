@@ -4,7 +4,7 @@
 
 | category | stack |
 | :--- | :--- |
-| **Languages** | [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js,py,c,cpp,dotnet,cs,swift,php)](https://skillicons.dev) |
+| **Languages** | [![My Skills](https://skillicons.dev/icons?i=java,ts,js,py,c,cpp,dotnet,cs,swift,php)](https://skillicons.dev) |
 | **Frameworks & Libraries** | [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,dotnet)](https://skillicons.dev) |
 | **Databases** | [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev) |
 | **DevOps & Cloud** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) |
