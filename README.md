@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from Romania</h3>
 <h2> Tech Stack </h2>
 
-| category | stack |
+| Category | Stack |
 | :--- | :--- |
 | **Languages** | [![My Skills](https://skillicons.dev/icons?i=java,ts,js,py,c,cpp,dotnet,cs,swift,php)](https://skillicons.dev) |
 | **Frameworks & Libraries** | [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,dotnet)](https://skillicons.dev) |
