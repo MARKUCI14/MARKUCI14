@@ -9,7 +9,3 @@
 | **Databases** | [![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql)](https://skillicons.dev) |
 | **DevOps & Cloud** | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) |
 | **Tools** | [![My Skills](https://skillicons.dev/icons?i=vscode,idea,github,gitlab)](https://skillicons.dev) |
-
-<h2> My Stats </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARKUCI14&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
